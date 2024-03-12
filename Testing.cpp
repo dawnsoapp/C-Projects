@@ -14,4 +14,5 @@ int main()
 {
     cout<< "Hello World. My name is Madi. \n";
     cout<< "5 + 6 is: ", myNum();
+    cout<< "My favorite color is red."
 }
